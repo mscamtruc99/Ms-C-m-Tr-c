@@ -1,0 +1,6 @@
+{
+  "name": "ThS. Lê Thị Cẩm Trúc - KHBD GDPT 2018",
+  "description": "Ứng dụng AI chuyên nghiệp soạn Kế hoạch bài dạy chuẩn GDPT 2018, Công văn 5512 & 2345, tích hợp Năng lực số, AI Literacy và STEM/STEAM cho THCS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
